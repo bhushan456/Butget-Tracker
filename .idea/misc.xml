@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Butget tracker/app/src/main/res/drawable/ic_baseline_add_shopping_cart_24.xml" value="0.2465" />
+        <entry key="..\:/Butget tracker/app/src/main/res/drawable/ic_baseline_attach_money_24.xml" value="0.2465" />
+        <entry key="..\:/Butget tracker/app/src/main/res/drawable/ic_baseline_list_alt_24.xml" value="0.2465" />
         <entry key="..\:/Butget tracker/app/src/main/res/layout/activity_main.xml" value="0.25052083333333336" />
+        <entry key="..\:/Butget tracker/app/src/main/res/layout/activity_main2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Butget tracker/app/src/main/res/layout/activity_main3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Butget tracker/app/src/main/res/layout/activity_main4.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
